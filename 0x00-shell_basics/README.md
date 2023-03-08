@@ -1,0 +1,1 @@
+this is a directory where theres basic shell scripts to do commands as described in their file names
